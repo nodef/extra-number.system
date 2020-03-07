@@ -1,0 +1,38 @@
+{
+  "name": "extra-number.system",
+  "version": "0.0.1",
+  "description": "A numeral system is a writing system for expressing numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/extra-number.system.git"
+  },
+  "keywords": [
+    "extra",
+    "number",
+    "system",
+    "abjad",
+    "armenian",
+    "aryabhatta",
+    "attic",
+    "cyrillic",
+    "etruscan",
+    "galgolithic",
+    "geez",
+    "georgian",
+    "greek",
+    "hebrew",
+    "inuit",
+    "quipu",
+    "roman"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodef/extra-number.system/issues"
+  },
+  "homepage": "https://github.com/nodef/extra-number.system#readme"
+}
